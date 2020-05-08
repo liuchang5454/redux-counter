@@ -2,7 +2,7 @@
 
 App Description:
 - a minimal app using Redux
-- the count is displayed 
+- the count is displayed
 - click INCREMENT / DECREMENT button to call state.dispatch() to update state
 
 Flow:
@@ -14,3 +14,5 @@ Flow:
   - note actions must have a key of "type"
 - writing a function that returns an object
   - write a function that returns an action
+
+add a change by u1
